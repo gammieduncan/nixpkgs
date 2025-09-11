@@ -1,0 +1,1 @@
+/run/opengl-driver/lib:/nix/store/cwy7010iwla9b2v1fx82sp66v12r913x-libcublas-12.8.4.1-lib/lib:/nix/store/xccbzbpcn8r506zdvhvbkqkilhlrh3c5-cuda_cudart-12.8.90-lib/lib:/nix/store/8p33is69mjdw3bi1wmi8v2zpsxir8nwd-glibc-2.40-66/lib:/nix/store/ysdkxvcvy2sy36sqigkyqanixm76z2xh-gcc-14.3.0-lib/lib
